@@ -34,6 +34,8 @@ giving a fully functional point of sale system according to client requirement
 
 * Scene Builder
 
+* Spring
+
 ## Build with
 
 * Java
@@ -41,6 +43,8 @@ giving a fully functional point of sale system according to client requirement
 * JavaFx
 
 * JPA
+
+* Spring
 
 ## Technology Stack
 
@@ -54,6 +58,7 @@ giving a fully functional point of sale system according to client requirement
 
 * MySql
 
+* Spring
 
 ## Authors
 
